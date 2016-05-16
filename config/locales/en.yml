@@ -1,0 +1,8 @@
+en:
+  sudo_mode:
+    confirmation:
+      new:
+        confirmation_heading: "Confirm your Password"
+        check_password_button: "Authorize"
+        warning_message: "Are you sure you want to perform this action?"
+
